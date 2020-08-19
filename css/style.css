@@ -1,0 +1,17 @@
+body {
+    color: #686c6e;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+.red {
+    color: #b70413;
+}
+
+.card {
+    cursor: pointer;
+    margin-bottom: 5px;
+}
+
